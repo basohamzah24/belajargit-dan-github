@@ -1,0 +1,3 @@
+Selamat datang di file home.txt
+Ini adalah contoh teks biasa.
+Anda bisa menambahkan baris baru dengan menekan Enter.np
